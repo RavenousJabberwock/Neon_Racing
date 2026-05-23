@@ -3,6 +3,7 @@
 **Neon Racing** is a fast-paced, retro-futuristic arcade racing game. Experience vibrant neon aesthetics, challenging tracks, and responsive controls built straight for the browser.
 
 ### 🎮 [Play Neon Racing Live on GitHub Pages]([https://github.io](https://ravenousjabberwock.github.io/Neon_Racing/))
+* https://ravenousjabberwock.github.io/Neon_Racing/
 
 ---
 
